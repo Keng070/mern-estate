@@ -2,7 +2,7 @@ import { FaSearch } from "react-icons/fa";
 import { Link } from "react-router-dom";
 export default function Header() {
   return (
-    <header className="shadow-md p-3">
+    <header className="shadow-md p-3 bg-white">
       <div className="flex justify-between items-center mx-auto max-w-6xl">
         <Link to="/">
           <h1 className="font-bold text-sm sm:xl flex flex-wrap">
