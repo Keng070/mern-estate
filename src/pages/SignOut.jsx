@@ -1,6 +1,6 @@
 
 export default function SignOut() {
   return (
-    <div>Signout</div>
+    <div>SignOut</div>
   )
 }
